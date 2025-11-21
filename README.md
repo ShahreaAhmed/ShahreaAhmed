@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I’m **Shahrea Ahmed**, a passionate **MERN Stack Developer** who loves building modern, clean, and user-focused web applications.  
+I’m **Shahrea Ahmed**, a passionate **MERN Stack and Front-End Developer** who loves building modern, clean, and user-focused web applications.  
 I enjoy turning ideas into fully functional digital experiences using the power of **JavaScript**, **React**, and **Node.js**.
 
 I work with both frontend and backend technologies, ensuring every application is fast, scalable, and visually polished.  
@@ -36,7 +36,7 @@ From UI design to database architecture — I love handling the full development
 | Logo | Technology | Logo | Technology | Logo | Technology |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=react" width="40"/> | React.js | <img src="https://skillicons.dev/icons?i=nodejs" width="40"/> | Node.js | <img src="https://skillicons.dev/icons?i=express" width="40"/> | Express.js |
-| <img src="https://skillicons.dev/icons?i=tailwind" width="40"/> | Tailwind CSS | <img src="https://skillicons.dev/icons?i=daisyui" width="40"/> | DaisyUI |
+| <img src="https://skillicons.dev/icons?i=tailwind" width="40"/> | Tailwind CSS | <img src="https://go-skill-icons.vercel.app/api/icons?i=daisyui" width="40"/> | DaisyUI |
 
 ### Database & Tools:
 
@@ -47,7 +47,7 @@ From UI design to database architecture — I love handling the full development
 
 ---
 
-## 📊 <img src="https://i.ibb.co.com/4RSw9Kbh/Green-Brown-Modern-Super-Big-Match-Banner.png" alt="GitHub Stats Icon" width="30"/> GitHub Statistics:
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"> GitHub Statistics:
 
 ![Snake Grid](https://github.com/ShahreaAhmed/contribution-snake/blob/output/grid.svg)
 
