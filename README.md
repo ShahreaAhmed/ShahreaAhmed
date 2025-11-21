@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://imgur.com/a/Kd3hPY3" 
-       alt="Shahrea Ahmed - MERN Stack Developer Banner" width="100%">
+  <img src="https://i.ibb.co.com/ycpNP6wV/Your-paragraph-text-1.png"alt="Shahrea Ahmed - MERN Stack Developer Banner" width="100%">
+  
   
   <h1>👋 Hi, I'm Shahrea Ahmed!</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00A8FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;I+Build+Fast+and+Scalable+Web+Apps;JavaScript+%7C+React+%7C+Node+%7C+MongoDB" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00A8FF&center=true&vCenter=true&width=600&lines=Front-End+Web+Developer;MERN+Stack+Developer;I+Build+Fast+and+Scalable+Web+Apps;JavaScript+%7C+React+%7C+Node+%7C+MongoDB" />
   </a>
 
   <p>Turning ideas into clean, scalable web applications.</p>
@@ -23,7 +23,7 @@ From UI design to database architecture — I love handling the full development
 
 ---
 
-## 🛠️ <img src="https://i.ibb.co.com/WWqXqYyX/imgi-64-7-Km-AEjy-Kbr.gif" alt="Tools Icon" width="30"/> Technology Stack & Skills
+## <img src="https://i.ibb.co.com/WWqXqYyX/imgi-64-7-Km-AEjy-Kbr.gif" alt="Tools Icon" width="30"/> Technology Stack & Skills
 
 ### Languages & Core:
 
@@ -49,6 +49,8 @@ From UI design to database architecture — I love handling the full development
 
 ## 📊 <img src="https://i.ibb.co.com/4RSw9Kbh/Green-Brown-Modern-Super-Big-Match-Banner.png" alt="GitHub Stats Icon" width="30"/> GitHub Statistics:
 
+![Snake Grid](https://github.com/ShahreaAhmed/contribution-snake/blob/output/grid.svg)
+
 <div align="center">
   <table width="100%">
     <tr>
@@ -66,30 +68,19 @@ From UI design to database architecture — I love handling the full development
 
 ## 🚀 Repository Stats & Streak:
 
-<div align="center">
-  <table width="100%" style="border-collapse: collapse;">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-contributor-stats.vercel.app/api?username=ShahreaAhmed&limit=5&theme=default&hide_border=true&bg_color=f0f0f0&font_size=12" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahreaAhmed&theme=default&hide_border=true&bg_color=f0f0f0&fire=FF8C00&currstreak=FF8C00&sideNums=404040&date_format=jS%20M%20Y" />
-      </td>
-    </tr>
-  </table>
-</div>
-
+| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=ShahreaAhmed&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=ShahreaAhmed" /></a> |
+| ------------- | ------------- |
 ---
 
-## 🔗 Connect with Me
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"> Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shahrea-ahmed-54a1b6395">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/shahrea-ahmed20/"  target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
   </a>
   
-  <a href="mailto:shahrearuman@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:shahrearuman@gmail.com"  target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -99,3 +90,7 @@ From UI design to database architecture — I love handling the full development
 
 > "There is never enough time to do it right, but there is always enough time to fix it or to do it over."  
 > — Daniel T. Barry
+
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShahreaAhmed&label=Profile%20views&color=0e75b6&style=flat" alt="touhidcodes" /> </p>
